@@ -23,9 +23,9 @@
 
   <distributionManagement>
     <site>
-      <id>site-server</id>
-      <name>Test Project Site</name>
-      <url>file:///tmp/maven-project-site</url>
+      <id>releases</id>
+      <name>Releases</name>
+       <url>http://52.205.253.238:8081/nexus/content/repositories/releases</url>
     </site>
   </distributionManagement>
 
